@@ -9,7 +9,12 @@ namespace csharp_roshambo
         private int PlayerMove { get; set; }
 
         public Game()
-        { Moves = new string[] {"rock","paper","scissors"}; }
+        {
+            Moves = new string[] {"rock","paper","scissors"};
+            PlayerMove = PlayerInput();
+            BotMove = BotInput();
+            WinCheck();
+        }
 
         private int PlayerInput()
         {
@@ -67,13 +72,6 @@ namespace csharp_roshambo
                 }
             }
             Console.WriteLine("\n");
-        }
-
-        public void RunGame()
-        {
-            PlayerMove = PlayerInput();
-            BotMove = BotInput();
-            WinCheck();
         }
     }
 }
