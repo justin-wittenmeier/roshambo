@@ -1,3 +1,8 @@
+F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.csprojAssemblyReference.cache
+F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.GeneratedMSBuildEditorConfig.editorconfig
+F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.AssemblyInfoInputs.cache
+F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.AssemblyInfo.cs
+F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.csproj.CoreCompileInputs.cache
 F:\gdrive\Documents\Projects\csharp-roshambo\bin\Debug\net5.0\csharp-roshambo.exe
 F:\gdrive\Documents\Projects\csharp-roshambo\bin\Debug\net5.0\csharp-roshambo.deps.json
 F:\gdrive\Documents\Projects\csharp-roshambo\bin\Debug\net5.0\csharp-roshambo.runtimeconfig.json
@@ -5,11 +10,6 @@ F:\gdrive\Documents\Projects\csharp-roshambo\bin\Debug\net5.0\csharp-roshambo.ru
 F:\gdrive\Documents\Projects\csharp-roshambo\bin\Debug\net5.0\csharp-roshambo.dll
 F:\gdrive\Documents\Projects\csharp-roshambo\bin\Debug\net5.0\ref\csharp-roshambo.dll
 F:\gdrive\Documents\Projects\csharp-roshambo\bin\Debug\net5.0\csharp-roshambo.pdb
-F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.csprojAssemblyReference.cache
-F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.GeneratedMSBuildEditorConfig.editorconfig
-F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.AssemblyInfoInputs.cache
-F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.AssemblyInfo.cs
-F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.csproj.CoreCompileInputs.cache
 F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.dll
 F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\ref\csharp-roshambo.dll
 F:\gdrive\Documents\Projects\csharp-roshambo\obj\Debug\net5.0\csharp-roshambo.pdb
