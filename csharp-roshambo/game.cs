@@ -9,9 +9,7 @@ namespace csharp_roshambo
         private int PlayerMove { get; set; }
 
         public Game()
-        {
-            Moves = new string[] {"rock","paper","scissors"};
-        }
+        { Moves = new string[] {"rock","paper","scissors"}; }
 
         private int PlayerInput()
         {
@@ -32,9 +30,7 @@ namespace csharp_roshambo
                     }
                 }
                 if (onOff)
-                {
-                    Console.WriteLine("\nError please select 'r, p or s'...\n\n");
-                }
+                { Console.WriteLine("\nError please select 'r, p or s'...\n\n"); }
             }
             return move;
         }
@@ -50,9 +46,7 @@ namespace csharp_roshambo
         {
             int[,] checks = {{0, 2},{1, 0},{2, 1}};
             if (PlayerMove == BotMove)
-                {
-                    Console.WriteLine("\n*******\n*Draw!*\n*******");
-                }
+                { Console.WriteLine("\n*******\n*Draw!*\n*******"); }
             else
             {
                 for (int i = 0; i < checks.Length; i++)
